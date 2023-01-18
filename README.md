@@ -16,3 +16,9 @@
 https://afdian.net/a/BallThe
 
 \awa/
+
+***
+
+## 以下为作者(BallThe)的日志
+
+2023/1/18：give下面的操作给它弄完！ 和text_edit弄在一起！加一个编辑名称和描述 | 可是描述是另一种，外面不带''的，原始JSON数据，又要搞一个框架弄它，不搞了！qswl
